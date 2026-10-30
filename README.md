@@ -10,7 +10,7 @@
     </a>
 </html>
 
-[![committers.top badge](https://user-badge.committers.top/israel/thecode.svg)](https://user-badge.committers.top/israel/thecode)
+[![committers.top badge](https://user-badge.committers.top/israel_public/thecode.svg)](https://user-badge.committers.top/israel_public/thecode)
 
 <!--
 ### Let's see how I did this year:
