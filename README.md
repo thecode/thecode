@@ -10,7 +10,7 @@
     </a>
 </html>
 
-[![committers.top badge](https://user-badge.committers.top/israel_public/thecode.svg)](https://user-badge.committers.top/israel_public/thecode)
+[![gayanvoice/top-github-users/israel](https://raw.githubusercontent.com/gayanvoice/top-github-users-ranking/main/svg/israel/thecode.svg)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/israel.md#thecode)
 
 <!--
 ### Let's see how I did this year:
