@@ -17,8 +17,6 @@
 </table>
 </div>
 
----
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=thecode&show_icons=true&count_private=true&theme=transparent&title_color=03a9f4&icon_color=03a9f4&text_color=ffffff">
@@ -31,8 +29,6 @@
     <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=thecode&theme=default&ring=03a9f4&fire=03a9f4&currStreakLabel=03a9f4" height="165px">
   </picture>
 </p>
-
----
 
 <h3 align="center">
   🏠 Integrating, Automating, and Squashing Bugs.
